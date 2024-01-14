@@ -1,4 +1,6 @@
-JDK21 Virtual Thread PoC
+# JDK21 Virtual Thread PoC
 
-<img src = "./loom.png" width="360">
+<img src = "./loom.png" width="240">
+
+- Examples
 - Benchmark
