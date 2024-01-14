@@ -1,4 +1,4 @@
 JDK21 Virtual Thread PoC
 
-![project-loom](./loom.png)
+<img src = "./loom.png" width="360">
 - Benchmark
