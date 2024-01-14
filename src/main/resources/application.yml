@@ -1,0 +1,10 @@
+spring:
+  threads:
+    virtual:
+      enabled: true
+
+server:
+  tomcat:
+    threads:
+      max: 2
+  port: 8081
