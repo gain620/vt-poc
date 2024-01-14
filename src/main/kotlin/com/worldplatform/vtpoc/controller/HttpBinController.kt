@@ -17,7 +17,7 @@ class HttpBinController {
 
     @GetMapping("/block/{seconds}")
     fun delay(@PathVariable seconds: Int): String {
-        val result = restClient!!.get()
+        val result = restClient.get()
             .uri("/delay/$seconds")
             .retrieve()
             .toBodilessEntity()
